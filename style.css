@@ -232,3 +232,46 @@ body {
   font-size: 20px;
   margin-top: 20px;
 }
+/* Subscribe styles */
+.subscribe {
+  max-width: 1280px;
+  background-color: #c6e4d6;
+  margin: 0 auto;
+  margin-bottom: 80px;
+  padding: 80px 0;
+  border-radius: 16px;
+}
+
+.subscribe-title {
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+}
+.marge {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.subscribe input[type="email"] {
+  height: 50px;
+  width: 50%;
+  font-size: 20px;
+  text-align: center;
+  padding: 2px 0;
+  border: none;
+  border-radius: 8px;
+}
+.btnsub {
+  padding: 17px 34px 17px 34px;
+  background-color: #006a50;
+  color: white;
+  border-top-right-radius: 16px;
+  border-bottom-right-radius: 16px;
+  border: rgba(14, 14, 14, 0.15);
+  border-style: none;
+  font-size: 18px;
+}
+.btnsub:hover {
+  background-color: tomato;
+  color: white;
+}
