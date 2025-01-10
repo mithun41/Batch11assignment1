@@ -1,0 +1,125 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Banner styles */
+
+.banner-conatiner {
+  max-width: 1280px;
+  margin: 0 auto;
+  margin-top: 100px;
+
+  background-color: #c6e4d6;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.banner {
+  padding: 80px 100px;
+}
+.banner-sub {
+  font-size: 24px;
+  color: #0e0e0e;
+}
+.banner-title {
+  font-size: 56px;
+}
+.btn {
+  padding: 17px 34px 17px 34px;
+  background-color: #006a50;
+  color: white;
+  border-radius: 8px;
+  margin-top: 30px;
+  border-style: none;
+}
+.btn:hover {
+  background-color: tomato;
+  color: white;
+}
+/* Future section styles */
+
+.future {
+  max-width: 1280px;
+  margin: 100px auto;
+
+  margin-top: 100px;
+  padding: 80px 100px;
+}
+.future-title {
+  font-size: 40px;
+}
+.future-description {
+  color: rgba(14, 14, 14, 0.7);
+  font-size: 16px;
+  margin: 30px 0;
+  font-weight: 400;
+  line-height: 24px;
+}
+.future-cards {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+.bg1 {
+  background-color: #d5e1f5;
+  padding: 30px;
+  border-radius: 16px;
+}
+.bg2 {
+  background-color: #c6e4d6;
+  padding: 30px;
+  border-radius: 16px;
+}
+.bg3 {
+  background-color: #f7ebcf;
+  padding: 30px;
+  border-radius: 16px;
+}
+.card-title {
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
+.card-description {
+  color: rgba(14, 14, 14, 0.7);
+  font-size: 16px;
+}
+.btn1 {
+  padding: 17px 34px 17px 34px;
+  background-color: #5490f5;
+  color: white;
+  border-radius: 8px;
+  margin-top: 30px;
+  border-style: none;
+}
+.btn1:hover {
+  background-color: tomato;
+  color: white;
+}
+.btn2 {
+  padding: 17px 34px 17px 34px;
+  background-color: #006a50;
+  color: white;
+  border-radius: 8px;
+  margin-top: 30px;
+  border-style: none;
+}
+.btn2:hover {
+  background-color: tomato;
+  color: white;
+}
+.btn3 {
+  padding: 17px 34px 17px 34px;
+  background-color: #ffc239;
+  color: white;
+  border-radius: 8px;
+  margin-top: 30px;
+  border-style: none;
+}
+.btn3:hover {
+  background-color: tomato;
+  color: white;
+}
