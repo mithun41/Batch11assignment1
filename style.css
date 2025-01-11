@@ -51,7 +51,7 @@ body {
   max-width: 1280px;
   margin: 0 auto;
 
-  margin-top: 100px;
+  margin-top: 50px;
   padding: 80px 100px;
 }
 .future-title {
@@ -289,11 +289,11 @@ body {
   background-color: white;
   margin: 0 auto;
   margin-bottom: 50px;
-  padding: 60px 30px;
+  padding: 60px 10px;
   border: rgba(14, 14, 14, 0.15);
   border-radius: 16px;
   background-image: url("./assets/quote-bg.png");
-  background-position: 50px 55px;
+  background-position: 30px 55px;
   background-repeat: no-repeat;
 }
 .quote-title {
